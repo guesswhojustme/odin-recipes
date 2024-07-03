@@ -1,0 +1,1 @@
+This project is about making a Recipe Website using basic HTML elements and tags. The steps to be followed is in the ODIN PROJECT foundation course
