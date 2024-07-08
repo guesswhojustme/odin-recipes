@@ -1,0 +1,13 @@
+.chicken-header{
+    background-color: orange;
+    color: brown;
+    font-family: 'Courier New', Courier, monospace;
+}
+.chicken-description{
+    background-color: antiquewhite;
+    color: brown;
+}
+.chicken-ul, .chicken-ol{
+    background-color: bisque;
+    color: brown;
+}
